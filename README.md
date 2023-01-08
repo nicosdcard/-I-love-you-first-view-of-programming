@@ -1,5 +1,5 @@
 # -I-love-you-first-view-of-programming
-This line I saw it on the internet and wanted to play with it. To see how it worked and it become the first thing I programmed. (I am not the created)
+I saw this coding on a website written in python and wanted to play with it. To see how it worked and it become the first thing I programmed. (I am not the created)
 import turtle
  
 draw = turtle.Turtle()
